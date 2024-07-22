@@ -1,18 +1,18 @@
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J">
+  <a href="https://chat.whatsapp.com/HbJKslCx60EEM36tD61zAb">
     <img alt=Support height="350" src="https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg"> 
     </p>
-<h1 align="center">    WASI-TECH-MULTI-DEVICE (BETA)
+<h1 align="center">    PREXZY-BOT-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By WASI To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By Precious Ayomide To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/itxxwasi"><img title="Author" src="https://img.shields.io/badge/WASI-MULTI_DEVICE-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/prexzybooster"><img title="Author" src="https://img.shields.io/badge/PREXZY-MULTI_DEVICE-green?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -23,8 +23,8 @@
 
 
    <p align="center">
-  <a href="https://github.com/itxxwasi/wasi-tech/fork">
-    <img src="https://img.shields.io/github/forks/itxxwasi/wasi-tech?label=Fork&style=social">
+  <a href="https://github.com/prexzybooster/prexzy-bot/fork">
+    <img src="https://img.shields.io/github/forks/prexzybooster/prexzy-bot?label=Fork&style=social">
   <p align="center"> 
   <a href="https://github.com/itxxwasi/wasi-tech/stargazers">
     <img src="https://img.shields.io/github/stars/itxxwasi/wasi-tech?style=social">
@@ -35,7 +35,7 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J" target="_blank">
+ <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -46,7 +46,7 @@
 
 
 ### 1. FORK THIS REPO
-<a href='https://github.com/itxxwasi/wasi-tech/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/prexzybooster/prexzy-bot/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE
 <a href='https://replit.com/@Itxxwasi/WASI-TECH-1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
