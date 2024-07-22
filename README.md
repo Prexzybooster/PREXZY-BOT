@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/HbJKslCx60EEM36tD61zAb">
-    <img alt=Support height="350" src="https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/c3367b00001035677cc6b.jpg"> 
     </p>
 <h1 align="center">    PREXZY-BOT-MULTI-DEVICE (BETA)
 </h1>
