@@ -59,7 +59,7 @@
 
 #### JUST COPY THIS TEMPLEAT LINK AND OPEN IT ON THAT BROWSER WHERE YOU HAVE YOUR HEROKU ACCOUNT
 ```
-https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
+https://heroku.com/deploy?template=https://github.com/Prexzybooster/prexzy-bot
 ```
 1. If You don't have a account in Heroku. Create a account.
     <br>
@@ -98,7 +98,7 @@ mongodb+srv://wasitech10:WASImd##12@cluster0.eclhxiz.mongodb.net/?retryWrites=tr
 ```
 
 
-<h2 align="center"> Star This Repo If You like WASI-TECH
+<h2 align="center"> Star This Repo If You like PREXZY-BOT
   
   
   #### Thanks To 
