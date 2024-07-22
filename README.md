@@ -78,7 +78,7 @@ https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
 
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/itxxwasi/wasi-tech' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://replit.com/@Prexzybooster/Prexzy-bot?v=1' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ---
 #### ERROR SECATION
