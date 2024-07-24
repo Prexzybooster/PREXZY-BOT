@@ -3,13 +3,13 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split("2349159895444")
+global.owner = process.env.OWNER_NUMBER. || "2349159895444"
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'ayprecious01@gmail.com'
 global.github = 'https://github.com/prexzybooster/prexzy-bot'
 global.location = 'Nigeria'
-global.gurl = 'https://instagram.com/prexzy_ay' // add your username
+global.gurl = 'https://instagram.com/prexzy-bot' // add your username
 global.sudo = process.env.SUDO || '2349159895444'
 global.devs = '2349159895444';
 global.website = 'https://github.com/prexzybooster/wasi-tech' // Hello world
@@ -18,9 +18,9 @@ module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'PREXZY BOT' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'PRECIOUS AYOMIDE' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'wasi-tech' : process.env.PACK_AUTHER.split(";")[0],
+  author:  process.env.PACK_AUTHER.split("prexzy")[0] === undefined ? 'prexzyvilla' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS  || 'true' ,
-  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'wasi-tech' : process.env.PACK_NAME.split(";")[1],
+  packname:  process.env.PACK_NAME.split("prexzy")[1] === undefined ? 'prexzyvilla' : process.env.PACK_NAME.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION ||  'true' ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nigga' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
@@ -45,7 +45,7 @@ module.exports = {
 },
   VERSION: process.env.VERSION === undefined ? 'Ｖ-1.０.１' : process.env.VERSION,
   LANG: process.env.THEME|| 'SECKTOR-2.0',
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
 
